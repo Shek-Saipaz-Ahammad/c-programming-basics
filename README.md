@@ -7,3 +7,12 @@ networking, and cybersecurity.
 Status: Day 1 – Getting started
 
 Status: Day 2: Variables, constants, arithmetic, relational and logical operators
+
+Status: Day 3: Conditionals
+C basics covering:
+- if statement
+- if-else statement
+- else-if ladder
+- ternary operator
+- switch-case
+
