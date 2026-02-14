@@ -17,8 +17,8 @@ C basics covering:
 - switch-case
 
 ### Chapter 3: Practice Screenshot
-Here is a screenshot of my VS Code while practicing Chapter 2:
+Here is a screenshot of my VS Code while practicing Chapter 3:
 
-![VS Code Chapter 2] (chapter3_vscode.png)
+![VS Code Chapter 3] (chapter3_vscode.png)
 
 
