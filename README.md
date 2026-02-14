@@ -16,3 +16,9 @@ C basics covering:
 - ternary operator
 - switch-case
 
+### Chapter 3: Practice Screenshot
+Here is a screenshot of my VS Code while practicing Chapter 2:
+
+![VS Code Chapter 2] (chapter3_vscode.png)
+
+
