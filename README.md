@@ -6,7 +6,10 @@ networking, and cybersecurity.
 
 Status: Day 1 – Getting started
 
-Status: Day 2: Variables, constants, arithmetic, relational and logical operators
+Status: Day 2: 
+-Variables
+-constants
+-arithmetic,relational and logical operators
 
 Status: Day 3: Conditionals
 C basics covering:
@@ -33,3 +36,10 @@ Topics Covered:
 Description:
 This program demonstrates different loop control instructions in C.
 It shows how loops execute and how break and continue alter flow control.
+
+
+| Test Day | Project Name | Folder Link |
+| :--- | :--- | :--- |
+| 01 | My First Project | [Click Here](./Day-01) |
+
+
