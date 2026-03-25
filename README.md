@@ -38,8 +38,6 @@ This program demonstrates different loop control instructions in C.
 It shows how loops execute and how break and continue alter flow control.
 
 
-| Test Day | Project Name | Folder Link |
-| :--- | :--- | :--- |
-| 01 | My First Project | [Click Here](./Day-01) |
+
 
 
