@@ -11,7 +11,7 @@ Status: Day 2:
 -constants
 -arithmetic,relational and logical operators
 
-Status: Day 3: Conditionals
+Status: Day 3 - Conditionals
 C basics covering:
 - if statement
 - if-else statement
@@ -34,7 +34,7 @@ Topics Covered:
 - continue statement
 
 Description:
-This program demonstrates different loop control instructions in C.
+This program demonstrates different loop control instructions in C. 
 It shows how loops execute and how break and continue alter flow control.
 
 
