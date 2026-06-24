@@ -37,6 +37,10 @@ Description:
 This program demonstrates different loop control instructions in C. 
 It shows how loops execute and how break and continue alter flow control.
 
+|no|name|link|
+--------------
+|01|ashu|([click]./ashu)|
+
 
 
 
