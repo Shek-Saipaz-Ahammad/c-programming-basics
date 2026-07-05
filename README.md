@@ -37,6 +37,15 @@ Description:
 This program demonstrates different loop control instructions in C. 
 It shows how loops execute and how break and continue alter flow control.
 
+---
+
+## 🚀 Projects
+
+### ✅ Project 01 – Number Guessing Game
+
+A simple console-based game where the program generates a random number between **1 and 100**. The user keeps guessing until the correct number is found, while the program provides hints after each guess.
+
+**Project Folder:** `project-01-number-guessing-game`
 
 
 
